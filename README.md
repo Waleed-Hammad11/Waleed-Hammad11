@@ -13,9 +13,7 @@
 
   <br/>
 
-  <a href="https://github.com/readme-jokes/readme-jokes">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="600" alt="Dev Joke" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
   <br/> <br/>
 
@@ -38,12 +36,8 @@
 <br/>
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed-Hammad11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=Waleed-Hammad11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Waleed's Stats" />
-  </p>
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Waleed-Hammad11&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF&hide_border=true" width="100%" alt="Waleed's Activity Graph" />
 </div>
 
 <br/>
