@@ -10,8 +10,23 @@
 
   <br /> <br />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0c3RkeXJ4aXJ5bGd4ZnF6b2h6eHR5Zm54bmR6eW14b3R5eXJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" style="border-radius: 15px;" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Mz_ID:+WALEED_HAMMAD;MISSION:+ARCHITECTING_SCALABLE_SYSTEMS;STATUS:+ACTIVE_..." alt="Typing SVG" />
+  </a>
 
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px; max-width: 700px; text-align: left; box-shadow: 0px 0px 20px rgba(88, 166, 255, 0.2);">
+    
+    <p style="color: #c9d1d9; font-size: 15px; line-height: 1.8; font-family: 'Segoe UI', sans-serif;">
+      <span style="color: #58a6ff; font-weight: bold;">root@waleed:~$</span> 
+      I am a dedicated <b>Software Engineer</b> specialized in architecting <span style="color: #7ee787;"><b>reliable</b></span>, <span style="color: #7ee787;"><b>secure</b></span>, and <span style="color: #7ee787;"><b>scalable</b></span> systems.
+      <br><br>
+      <span style="color: #58a6ff; font-weight: bold;">root@waleed:~$</span> 
+      With a strong foundation in <b>Backend Logic</b>, I am actively bridging the gap to <b>Full Stack Development</b>, focusing on creating seamless, high-performance user experiences.
+    </p>
+
+  </div>
+</div>
   <br /> <br />
 
   <div align="left">
