@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Waleed-Hammad11&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Waleed-Hammad11&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Views" />
 
   <br /> <br />
 
@@ -8,18 +8,19 @@
 
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Architecting+Scalable+Systems+%F0%9F%9B%A1%EF%B8%8F;Full+Stack+Innovator+%E2%9A%A1;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Architecting+Scalable+Systems+%F0%9F%9B%A1%EF%B8%8F;Full+Stack+Enthusiast+%E2%9A%A1;Turning+Logic+Into+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Waleed-Hammad11&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Waleed's Trophies" />
+
+  <a href="https://github.com/readme-jokes/readme-jokes">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="600" alt="Dev Joke" />
   </a>
 
-  <br/>
+  <br/> <br/>
 
   <h3>👨‍💻 Engineering Philosophy</h3>
-  <pre align="left" style="background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 85%; display: inline-block; font-family: 'Fira Code', monospace;">
+  <pre align="left" style="background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 90%; display: inline-block; font-family: 'Fira Code', monospace;">
 <span style="color: #ff7b72;">class</span> <span style="color: #d2a8ff;">SoftwareEngineer</span> {
   <span style="color: #79c0ff;">constructor</span>() {
     <span style="color: #ff7b72;">this</span>.name = <span style="color: #a5d6ff;">"Waleed Hammad"</span>;
@@ -37,8 +38,12 @@
 <br/>
 
 <div align="center">
-  <h3>🔥 Coding Activity</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waleed-Hammad11&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Waleed's Streak" />
+  <h3>📊 GitHub Analytics</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed-Hammad11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=Waleed-Hammad11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Waleed's Stats" />
+  </p>
 </div>
 
 <br/>
