@@ -10,27 +10,26 @@
 
   <br /> <br />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Mz_ID:+WALEED_HAMMAD;MISSION:+ARCHITECTING_SCALABLE_SYSTEMS;STATUS:+ACTIVE_..." alt="Typing SVG" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" height="2">
 
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px; max-width: 700px; text-align: left; box-shadow: 0px 0px 20px rgba(88, 166, 255, 0.2);">
-    
-    <p style="color: #c9d1d9; font-size: 15px; line-height: 1.8; font-family: 'Segoe UI', sans-serif;">
-      <span style="color: #58a6ff; font-weight: bold;">root@waleed:~$</span> 
-      I am a dedicated <b>Software Engineer</b> specialized in architecting <span style="color: #7ee787;"><b>reliable</b></span>, <span style="color: #7ee787;"><b>secure</b></span>, and <span style="color: #7ee787;"><b>scalable</b></span> systems.
-      <br><br>
-      <span style="color: #58a6ff; font-weight: bold;">root@waleed:~$</span> 
-      With a strong foundation in <b>Backend Logic</b>, I am actively bridging the gap to <b>Full Stack Development</b>, focusing on creating seamless, high-performance user experiences.
-    </p>
+  <h3> 🚀 Mission & Vision 🎯 </h3>
 
-  </div>
-</div>
+  <p style="font-size: 16px; line-height: 1.8; max-width: 750px;">
+    I am a dedicated <b>Software Engineer</b> 👨‍💻 specialized in architecting <br>
+    <img src="https://img.shields.io/badge/-Reliable-2ea44f?style=flat-square" height="20"> 
+    <img src="https://img.shields.io/badge/-Secure-blue?style=flat-square" height="20"> 
+    <img src="https://img.shields.io/badge/-Scalable_Systems-orange?style=flat-square" height="20">
+    <br><br>
+    With a strong foundation in <b>Backend Logic</b> ⚙️, I am actively bridging the gap to <br>
+    <b>Full Stack Development</b> 🌐, focused on creating seamless, high-performance user experiences.
+  </p>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" height="2">
+
   <br /> <br />
 
-  <div align="left">
-    <pre style="background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 10px; padding: 20px; font-family: 'Fira Code', monospace; line-height: 1.5;">
+  <div align="center">
+    <pre align="left" style="background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 85%; display: inline-block; font-family: 'Fira Code', monospace; line-height: 1.5; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
 <span style="color: #ff7b72;">const</span> <span style="color: #d2a8ff;">developer</span> = {
     <span style="color: #79c0ff;">name</span>: <span style="color: #a5d6ff;">"Waleed Hammad"</span>,
     <span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"Software Engineer"</span>,
