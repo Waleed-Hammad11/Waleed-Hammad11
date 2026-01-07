@@ -1,46 +1,43 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Waleed-Hammad11&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=180&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I%20am%20Waleed%20Hammad&descAlignY=55&descAlign=62" width="100%" />
+
+  <br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Architecting+Scalable+Systems+%F0%9F%9B%A1%EF%B8%8F;Full+Stack+Enthusiast+%E2%9A%A1;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
+  </a>
 
   <br /> <br />
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0c3RkeXJ4aXJ5bGd4ZnF6b2h6eHR5Zm54bmR6eW14b3R5eXJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" style="border-radius: 15px;" />
 
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Architecting+Scalable+Systems+%F0%9F%9B%A1%EF%B8%8F;Full+Stack+Enthusiast+%E2%9A%A1;Turning+Logic+Into+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <br /> <br />
 
-  <br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-
-  <br/> <br/>
-
-  <h3>👨‍💻 Engineering Philosophy</h3>
-  <pre align="left" style="background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 90%; display: inline-block; font-family: 'Fira Code', monospace;">
-<span style="color: #ff7b72;">class</span> <span style="color: #d2a8ff;">SoftwareEngineer</span> {
-  <span style="color: #79c0ff;">constructor</span>() {
-    <span style="color: #ff7b72;">this</span>.name = <span style="color: #a5d6ff;">"Waleed Hammad"</span>;
-    <span style="color: #ff7b72;">this</span>.stack = [<span style="color: #a5d6ff;">"Backend Architecture"</span>, <span style="color: #a5d6ff;">"Security"</span>, <span style="color: #a5d6ff;">"Angular"</span>];
-  }
-
-  <span style="color: #d2a8ff;">code</span>() {
-    <span style="color: #8b949e;">// Writing scalable, reliable & secure code</span>
-    <span style="color: #ff7b72;">return</span> <span style="color: #a5d6ff;">"High Performance Solutions"</span>;
-  }
-}</pre>
+  <div align="left">
+    <pre style="background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 10px; padding: 20px; font-family: 'Fira Code', monospace; line-height: 1.5;">
+<span style="color: #ff7b72;">const</span> <span style="color: #d2a8ff;">developer</span> = {
+    <span style="color: #79c0ff;">name</span>: <span style="color: #a5d6ff;">"Waleed Hammad"</span>,
+    <span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"Software Engineer"</span>,
+    <span style="color: #79c0ff;">skills</span>: {
+        <span style="color: #79c0ff;">backend</span>: [<span style="color: #a5d6ff;">"Node.js"</span>, <span style="color: #a5d6ff;">"Architecture"</span>, <span style="color: #a5d6ff;">"Security"</span>],
+        <span style="color: #79c0ff;">frontend</span>: [<span style="color: #a5d6ff;">"Angular"</span>, <span style="color: #a5d6ff;">"TypeScript"</span>]
+    },
+    <span style="color: #79c0ff;">challenge</span>: <span style="color: #ff7b72;">() =></span> {
+        <span style="color: #ff7b72;">return</span> <span style="color: #a5d6ff;">"Building Scalable Solutions..."</span>;
+    }
+};</pre>
+  </div>
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <h3>📈 Contribution Graph</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Waleed-Hammad11&bg_color=0D1117&color=3F8CFF&line=3F8CFF&point=FFFFFF&hide_border=true" width="100%" alt="Waleed's Activity Graph" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <h3>🛠️ Technical Arsenal</h3>
@@ -54,7 +51,7 @@
 
 </div>
 
-<br/> <br/>
+<br /> <br />
 
 <div align="center">
   <h3>🤝 Join My Network</h3>
@@ -66,5 +63,5 @@
     <a href="https://www.instagram.com/walid_hammad10" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer"/>
 </div>
